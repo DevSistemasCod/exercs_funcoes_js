@@ -9,7 +9,7 @@ Exercícios Function
 4.  Escreva uma função em JavaScript que permita contar o número de vogais contidas em uma string fornecida pelo usuário. Por exemplo, o usuário informa a string “computador”, e a função retorna o número 4 (pois há 4 vogais nessa palavra).
 
 5.    Faça um programa em JavaScript que permita ao usuário selecionar uma figura geométrica (quadrado, retângulo, trapézio, triângulo ou círculo) e, a partir dessa escolha, o programa solicita os dados necessários para o cálculo da área da figura escolhida.
-As opções do menu seriam:
+As opções do menu seriam:<br>
 Quadrado<br>
 Retângulo<br>
 Trapézio<br>
