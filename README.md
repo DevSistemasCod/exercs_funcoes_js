@@ -1,4 +1,4 @@
-#Exercícios Function
+Exercícios Function
 
 1.  Escreva um código em JavaScript que forneça ao usuário a possibilidade de calcular as quatro operações básicas da matemática (adição, subtração, divisão e multiplicação) onde cada operação possui o seu próprio método.
 
@@ -11,11 +11,11 @@
 5.    Faça um programa em JavaScript que permita ao usuário selecionar uma figura geométrica (quadrado, retângulo, trapézio, triângulo ou círculo) e, a partir dessa escolha, o programa solicita os dados necessários para o cálculo da área da figura escolhida.
 As opções do menu seriam:
 
--Quadrado
--Retângulo
--Trapézio
--Triângulo
--Círculo
+Quadrado
+Retângulo
+Trapézio
+Triângulo
+Círculo
 
  Ao selecionar uma das opções do menu, o programa irá solicitar os dados necessários para realizar o cálculo correspondente e exibir o resultado na tela.
 obs: cada uma das opções deve ter seu próprio método
