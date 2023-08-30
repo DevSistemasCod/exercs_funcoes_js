@@ -10,12 +10,11 @@ Exercícios Function
 
 5.    Faça um programa em JavaScript que permita ao usuário selecionar uma figura geométrica (quadrado, retângulo, trapézio, triângulo ou círculo) e, a partir dessa escolha, o programa solicita os dados necessários para o cálculo da área da figura escolhida.
 As opções do menu seriam:
-
-Quadrado
-Retângulo
-Trapézio
-Triângulo
-Círculo
+Quadrado<br>
+Retângulo<br>
+Trapézio<br>
+Triângulo<br>
+Círculo<br>
 
  Ao selecionar uma das opções do menu, o programa irá solicitar os dados necessários para realizar o cálculo correspondente e exibir o resultado na tela.
 obs: cada uma das opções deve ter seu próprio método
