@@ -17,4 +17,4 @@ Triângulo<br>
 Círculo<br>
 
  Ao selecionar uma das opções do menu, o programa irá solicitar os dados necessários para realizar o cálculo correspondente e exibir o resultado na tela.
-obs: cada uma das opções deve ter seu próprio método
+<br>obs: cada uma das opções deve ter seu próprio método
